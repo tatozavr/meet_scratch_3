@@ -9,6 +9,7 @@ Scratch 3.0 - остання версія відомої мови програм
 
 ### Додаткова інформація
 
+https://llk.media.mit.edu/scratch/Learning-with-Scratch.pdf
 
 ### Технічні вимоги
 
